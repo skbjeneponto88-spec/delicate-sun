@@ -2,7 +2,7 @@ import React, { useEffect, useState } from "react";
 const logoAjappai = "/logo-ajappai-transparent.png";
 
 const DATA_ATS_URL = "https://ats-tes2-1.vercel.app/";
-
+bfgfg
 type PKBM = {
   nama: string;
   urlSiswa?: string;
